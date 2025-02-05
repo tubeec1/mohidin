@@ -1,6 +1,10 @@
+import Footer from './Footer'
 function Home(){
     return (
-        <h1>Home Page</h1>
+        <div>
+            <h1>Home Page</h1>
+            <Footer />
+        </div>
     )
 }
 export default Home;

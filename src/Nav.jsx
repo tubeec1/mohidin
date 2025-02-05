@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 function Nav() {
   return (
-    <div className='flex justify-around h-20 items-center shadow-lg txt-4xl'>
+    <div className='flex justify-around h-20 items-center shadow-lg text-lg'>
       <div>
         <h1 className='font-bold'>Mohidin Website</h1>
       </div>
